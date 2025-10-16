@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OrientaApp</string>
+    <string name="home_button">Casa</string>
+    <string name="school_button">Escola</string>
+    <string name="park_button">Parque</string>
+    <string name="help_button">AJUDA</string>
+    <string name="welcome_message">Bem-vindo à OrientaApp. Selecione seu destino.</string>
+    <string name="destination_selected">Destino selecionado: %1$s</string>
+    <string name="emergency_activated">Emergência ativada. Avisando os seus contactos.</string>
+    <string name="arrived_at">Chegou ao destino %1$s</string>
+    <string name="returning_home">Voltar ao início</string>
+    <string name="default_destination">destino</string>
+    <string name="navigating_to">Caminho para: %1$s</string>
+    <string name="navigation_canceled">Cancelar Destino</string>
+    <string name="turn_left">Vire à esquerda em %1$d metros</string>
+    <string name="go_straight">Siga em frente por %1$d metros</string>
+    <string name="turn_right">Vire à direita em %1$d metros</string>
+    <string name="meters">metros</string>
+    <string name="app_logo">Logotipo da OrientaApp</string>
+    <string name="calling_emergency">Ligando ao número de emergência</string>
+    <string name="config_help_button">Configurar Ajuda</string>
+    <string name="configure_help">Configurar contacto de ajuda</string>
+    <string name="help_name">Nome de emergência</string>
+    <string name="help_phone">Número de emergência</string>
+    <string name="save">Guardar</string>
+    <string name="saved_success">Contacto de ajuda guardado!</string>
+</resources>
